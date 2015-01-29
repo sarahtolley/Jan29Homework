@@ -1,0 +1,8 @@
+# Exercise 4.6.1 in scb
+
+1.	‘hello’ will print 14 times (17-3=14)
+2.	‘hello’ will print 3 times (for the numbers 1-12 that are divisible by 3)
+3.	‘hello’ will print 5 times. For the ‘if’ statement, the numbers returned are 3, 8 , and 13. For the ‘else is’ statement, the numbers returned are 3, 7, and 11. Since the 3 in the else statement is repeated ‘hello’ will only be printed once. 
+4.	‘hello’ will print 5 times (z is set to zero before the while loop. The equation within the loop is z = z + 3. We know the loop will stop when z reaches 15 because of the ‘!=’. The first iteration through the loop gives z = 0 + 3 = 3. The next is z = 3 + 3 = 6, and so on until z = 15.)
+5.	‘hello’ will print 8 times. When z = 31 the loop states to repeat the print command 7 times. After the loop says if z = 18 print hello once. 
+
